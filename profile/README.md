@@ -9,8 +9,18 @@ kISA 아카데미 - 케이쉴드주니어 17기 침해사고대응 및 분석반
 
 <br/>
 
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-2E2E2E?style=flat-square)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-005A9C?style=flat-square)
+![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=flat-square)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square)
 
 </div>
 
