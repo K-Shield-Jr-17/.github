@@ -33,7 +33,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | [@Jungcircle](https://github.com/Jungcircle) | [@jiyeoneeeeeeee](http://github.com/jiyeoneeeeeeee) | [@choc0000](https://github.com/choc0000) | [@hoodscp](https://github.com/hoodscp) | [@annseojin](https://github.com/annseojin) |
 | 정원형 | 남지연 | 이선하 | 이지훈 | 안서진 |
-| PM | PO | PO | PO | PO |
+| PM | PA | PA | PA | PA |
 
 </div>
 
