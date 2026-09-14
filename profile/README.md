@@ -2,13 +2,12 @@
 
 # 🛡️ K-Shield Jr. 17기
 
-kISA 아카데미 - 케이쉴드주니어 17기 침해사고대응 및 분석반 팀 프로젝트 2팀 [Circle 키우기]
+케이쉴드주니어 17기 침해사고대응 및 분석반 팀 프로젝트 2팀 [Circle 키우기]
 <br />  
 
 <img src="https://github.com/K-Shield-Jr-17.png" width="130" />
 
 <br/>
-
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -46,20 +45,15 @@ kISA 아카데미 - 케이쉴드주니어 17기 침해사고대응 및 분석반
 
 | | Repository | Description |
 |:---:|:---|:---|
-| 🌐 | **[ClickFix-WEB](https://github.com/K-Shield-Jr-17/ClickFix-WEB)**<br/><sub>`CSS`</sub> | ClickFix 기법 실습용 데모 웹사이트 |
-| 🗂️ | **[Stealer_v2](https://github.com/K-Shield-Jr-17/Stealer_v2)**<br/><sub>`HTML`</sub> | 스틸러 실습용 실행 파일 (v1 Python → v2 C++) |
+| 🗂️ | **[Stealer_v2](https://github.com/K-Shield-Jr-17/Stealer_v2)**<br/><sub>`HTML` `Python` `C++`</sub> | ClickFix 기반 침해사고 시나리오 LAB - 유도 웹페이지부터 정보 탈취형 악성코드 동작까지 재현 |
 
 </div>
 
 ---
 
-### 🌐 ClickFix-WEB
-
-ClickFix 취약점을 실습해볼 수 있는 웹사이트 데모입니다.
-
 ### 🗂️ Stealer_v2
 
-스틸러 동작 실습을 위한 실행 파일(exe)이 포함되어 있습니다. 1차 버전은 Python으로, 2차 버전은 C++로 제작되었습니다.
+ClickFix 사회공학 기법으로 사용자를 속여 PowerShell 명령을 실행시키고, 이어서 Lumma Stealer 유형을 참고한 분석용 InfoStealer가 동작하는 전 과정을 격리된 LAB 환경에서 재현하는 저장소입니다. ClickFix 유도 웹페이지와 정보 탈취 악성코드(1차 Python → 2차 C++)를 하나로 통합했으며, 실제 개인정보 대신 모의 데이터만 사용합니다. 자세한 구성과 시나리오는 저장소 내 문서에서 확인할 수 있습니다.
 
 ---
 
