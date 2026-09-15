@@ -2,7 +2,7 @@
 
 # 🛡️ K-Shield Jr. 17기
 
-케이쉴드주니어 17기 침해사고대응 및 분석반 팀 프로젝트 2팀 [Circle 키우기]
+케이쉴드주니어 17기 침해사고대응 및 분석반 팀 프로젝트 2팀 [임마임마하지마]
 <br />  
 
 <img src="https://github.com/K-Shield-Jr-17.png" width="130" />
@@ -29,9 +29,9 @@
 
 <div align="center">
 
-| <img src="https://github.com/jwhjwh2174.png" width="72"> | <img src="https://github.com/namjy04.png" width="72"> | <img src="https://github.com/choc0000.png" width="72"> | <img src="https://github.com/hoodscp.png" width="72"> | <img src="https://github.com/annseojin.png" width="72"> |
+| <img src="https://github.com/Jungcircle.png" width="72"> | <img src="https://github.com/jiyeoneeeeeeee.png" width="72"> | <img src="https://github.com/choc0000.png" width="72"> | <img src="https://github.com/hoodscp.png" width="72"> | <img src="https://github.com/annseojin.png" width="72"> |
 |:---:|:---:|:---:|:---:|:---:|
-| [@Jungcircle](https://github.com/Jungcircle) | [@jiyeoneeeeeeee](http://github.com/jiyeoneeeeeeee) | [@choc0000](https://github.com/choc0000) | [@hoodscp](https://github.com/hoodscp) | [@annseojin](https://github.com/annseojin) |
+| [@Jungcircle](https://github.com/Jungcircle) | [@jiyeoneeeeeeee](https://github.com/jiyeoneeeeeeee) | [@choc0000](https://github.com/choc0000) | [@hoodscp](https://github.com/hoodscp) | [@annseojin](https://github.com/annseojin) |
 | 정원형 | 남지연 | 이선하 | 이지훈 | 안서진 |
 | PM | PA | PA | PA | PA |
 
