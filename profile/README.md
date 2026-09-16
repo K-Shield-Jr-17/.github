@@ -46,7 +46,7 @@
 | | Repository | Description |
 |:---:|:---|:---|
 | 🗂️ | **[Stealer_v2](https://github.com/K-Shield-Jr-17/Stealer_v2)**<br/><sub>`HTML` `Python` `C++`</sub> | ClickFix 기반 침해사고 시나리오 LAB - 유도 웹페이지부터 정보 탈취형 악성코드 동작까지 재현 |
-
+| 📋 | **[DFIR Incident Report](https://github.com/K-Shield-Jr-17/DFIR_Report_Web)**<br/><sub>`HTML` `DFIR` `Incident Response`</sub> | ClickFix 기반 침해사고의 이벤트로그·네트워크·메모리·레지스트리 증적을 연계한 통합 분석 및 대응 보고서 |
 </div>
 
 ---
@@ -57,6 +57,11 @@ ClickFix 사회공학 기법으로 사용자를 속여 PowerShell 명령을 실�
 
 ---
 
+### 📋 DFIR Incident Report
+
+격리된 LAB에서 재현한 ClickFix 기반 침해사고를 대상으로, 초기 유입부터 페이로드 실행, 권한 상승, LSASS 접근, 파일 집결 및 C2 방향 데이터 전송 정황까지 분석한 저장소입니다. Windows 이벤트로그·Sysmon·네트워크·메모리·레지스트리·Process Monitor 증적을 연결하고, 확인 사실과 추정을 구분했습니다. 사건 영향 평가, IOC/IOA, ATT&CK 매핑 및 대응·개선조치 계획을 A4 페이지형 HTML 보고서로 제공합니다.
+
+---
 <div align="center">
 <sub>
 KISA 케이쉴드주니어 17기 · 침해사고대응 및 분석반<br/>
