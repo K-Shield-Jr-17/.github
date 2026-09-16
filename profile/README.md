@@ -47,7 +47,7 @@
 |:---:|:---|:---|
 | 🗂️ | **[Stealer_v2](https://github.com/K-Shield-Jr-17/Stealer_v2)**<br/><sub>`HTML` `Python` `C++`</sub> | ClickFix 기반 침해사고 시나리오 LAB - 유도 웹페이지부터 정보 탈취형 악성코드 동작까지 재현 |
 | 📋 | **[DFIR Incident Report](https://github.com/K-Shield-Jr-17/DFIR_Report_Web)**<br/><sub>`HTML` `DFIR` `Incident Response`</sub> | ClickFix 기반 침해사고의 이벤트로그·네트워크·메모리·레지스트리 증적을 연계한 통합 분석 및 대응 보고서 |
-| 🧪 | **[dfir-training-design]([./dfir-training-design](https://github.com/K-Shield-Jr-17/DFIR_Challenge_Web)**<br><sub>`HTML` `CSS` `JavaScript`</sub> | 난이도별 사건 시나리오와 증적을 활용하는 DFIR 교육훈련 웹앱 TRACE |
+| 🧪 | **[dfir-training-design](https://github.com/K-Shield-Jr-17/DFIR_Challenge_Web)**<br><sub>`HTML` `CSS` `JavaScript`</sub> | 난이도별 사건 시나리오와 증적을 활용하는 DFIR 교육훈련 웹앱 TRACE |
 </div>
 
 ---
